@@ -322,7 +322,7 @@ void main()
             UpdateDutyCycle(TIMERA2_BASE, TIMER_B, iLoopCnt);
             UpdateDutyCycle(TIMERA3_BASE, TIMER_B, iLoopCnt);
             UpdateDutyCycle(TIMERA3_BASE, TIMER_A, iLoopCnt);
-            MAP_UtilsDelay(80000);
+            MAP_UtilsDelay(8000000);
         }
       
     }
